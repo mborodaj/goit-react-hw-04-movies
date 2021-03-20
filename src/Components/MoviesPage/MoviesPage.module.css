@@ -1,0 +1,21 @@
+.moviesList {
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+
+  margin: 50px;
+}
+
+.moviesItem {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 15px;
+
+  width: calc((100% / 4) - 10px);
+}
+
+.poster {
+  width: 100%;
+}
