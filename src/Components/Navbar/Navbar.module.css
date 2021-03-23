@@ -1,0 +1,16 @@
+header {
+  background-color: white;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.navList {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navItem {
+  margin-right: 20px;
+  color: white;
+}

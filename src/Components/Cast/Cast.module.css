@@ -1,0 +1,19 @@
+.castList {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.castPhoto {
+  width: 100%;
+}
+
+.castItem {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 15px;
+
+  width: calc((100% / 10));
+}

@@ -1,0 +1,67 @@
+h2 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.detailsPage {
+  margin: 50px;
+  text-align: center;
+}
+
+.backBtn {
+  display: block;
+  background-color: transparent;
+  border: none;
+  /* border-radius: 20px; */
+  outline: none;
+  margin-bottom: 10px;
+  padding: 10px;
+
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+
+  background-color: white;
+  color: black;
+
+  width: 30%;
+  cursor: pointer;
+}
+
+.detailsContainer {
+  display: flex;
+}
+
+.poster {
+  width: 30%;
+}
+
+.infoBlock {
+  margin-left: 50px;
+  text-align: left;
+}
+
+.additionalInfo {
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  flex-direction: column;
+}
+
+.infoList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.infoItem {
+  margin-left: 20px;
+}

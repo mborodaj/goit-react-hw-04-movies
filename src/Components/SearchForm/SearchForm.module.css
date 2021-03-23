@@ -1,0 +1,10 @@
+.searchContainer {
+  margin: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.inputForm {
+  width: 500px;
+  margin-right: 10px;
+}
